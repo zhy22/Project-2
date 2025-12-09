@@ -49,11 +49,5 @@ The project follows this logical, step-by-step flow:
 - Building a small web interface / dashboard to expose results or predictions  
 - Adding automated tests or validation pipelines for reliability and reproducibility  
 
-## 📝 Notes & Recommendations  
-- To reproduce results, ensure that any required dependencies (e.g., specific Python version, libraries) are installed.  
-- If dataset is large or contains sensitive information, it may be better to provide a sample or synthetic subset for demonstration.  
-- Consider modularizing code (e.g. split data loading, processing, modeling into separate scripts) if the project evolves beyond exploratory work.  
-
----
 
 This project represents a robust demonstration of data-analysis and machine-learning competence. It reflects strong technical capability, methodical approach, and professionalism — valuable attributes for roles in data science, analytics, or machine learning engineering.  
